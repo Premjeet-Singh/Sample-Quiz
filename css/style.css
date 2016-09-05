@@ -1,0 +1,57 @@
+body{
+	background: url('overlay.png');
+	background-size: cover;
+}
+#wrap{
+	width: 800px;
+	height: auto;
+	margin: 50px auto;
+	padding: 40px;
+	/*background: #B2BEB5;*/
+	background: url('5.jpg') no-repeat;
+	background-size: cover;
+  border: 2px solid #120A8F;	
+}
+p{margin: 0px;
+	height: 60px;
+	text-align: center;
+	font-weight: bold;
+	font-size: 35px;
+	line-height: 1.7;
+	color: #dee;
+	background:#007BA7;
+}
+#test_status{
+	margin-top: 10px;
+	height: 35px;
+	font-size: 23px;
+	text-align: center;
+	line-height: 1.4;
+	background:#6CA0DC;
+}
+#test {
+	border:#000 1px solid;
+	padding:10px 40px 40px 40px;
+	background:#F0EAD6;
+}
+#result{
+	text-align: center;
+	color: #138808;
+	font-size: 30px;
+/* 	background: blue; */
+}
+h3{
+	font-size: 24px;
+}
+input{
+	padding: 50px;
+}
+button{
+	width: 150px;
+	height: 40px;
+	font-size: 18px;
+/* 	border: 2px solid purple; */
+	border-radius: 7px;
+	color: white;
+	background:	#00AB66;
+}
